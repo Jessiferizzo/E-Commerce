@@ -39,6 +39,8 @@ THEN I am able to successfully create, update, and delete data in my database
   # Site 
   [E-Commerce Github Repo](https://github.com/Jessiferizzo/E-Commerce.git)
 
+  [Full link to Demo Video](https://drive.google.com/file/d/1A8X8V8nwJ2DYVrtVI0Qs2HNRqRM1j5eV/view)
+
 
   ## Built With:
   Node, Express, Mysql2, Sequelize,  Dotenv
@@ -59,8 +61,6 @@ THEN I am able to successfully create, update, and delete data in my database
 📷 
 ![picture of post](./assets/animation/Screen%20Shot%202022-06-20%20at%207.26.48%20AM.png)
 
-   [Full link to Demo Video](https://drive.google.com/file/d/1A8X8V8nwJ2DYVrtVI0Qs2HNRqRM1j5eV/view)
-  
 
   ## Contributing
    no contributions at this time
