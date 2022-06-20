@@ -66,6 +66,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
   :octocat: Github [Jessiferizzo](https://github.com/jessiferizzo) 
 
+  ✉️ [My Email](mailto:jsisavath2@gmail.com)
+
   ## Acknowledgments
  MIT licensing, our great instructors and TAs, graders, and classmates
 
