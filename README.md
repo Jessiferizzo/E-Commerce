@@ -52,7 +52,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
   2. Sign into `mysql` account by running `mysql -u root -p` at the terminal, enter your password when prompted, then run `source db/schema.sql`, quit `mysql` with `\q`.
   
-  3. At terminal, run `node seeds/index.js` to populate seeds data, then `npm start` to start up server. 
+  3. At terminal, run `npm run seeds` to populate seeds data, then `npm start` to start up server. 
 
    📷 
    ![gif of app](./assets/animation/Untitled_%20Jun%2020%2C%202022%207_20%20AM.gif)
