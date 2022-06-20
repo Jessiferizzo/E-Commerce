@@ -55,7 +55,11 @@ THEN I am able to successfully create, update, and delete data in my database
   3. At terminal, run `node seeds/index.js` to populate seeds data, then `npm start` to start up server. 
 
    📷 
-   ![gif of app](./public/images/habitual%20_%20Habit%20Tracker.gif)
+   ![gif of app](./assets/animation/Untitled_%20Jun%2020%2C%202022%207_20%20AM.gif)
+
+   ![picture of post](./assets/animation/Screen%20Shot%202022-06-20%20at%207.26.48%20AM.png)
+
+   [Full link to Demo Video](https://drive.google.com/file/d/1A8X8V8nwJ2DYVrtVI0Qs2HNRqRM1j5eV/view)
   
 
   ## Contributing
